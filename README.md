@@ -42,9 +42,3 @@ ZedGraph is available via NuGet:
 - [ZedGraph](http://nuget.org/packages/ZedGraph)
 - [ZedGraph.WinForms](http://nuget.org/packages/ZedGraph.WinForms)
 
-## TODO
-* ~~port to .NET Core 6~~
-* ~~sign assemblies~~
-* ~~company+author+copyright credits~~
-* ~~xml docs~~
-
