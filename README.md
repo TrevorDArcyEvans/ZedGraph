@@ -4,6 +4,31 @@
 
 created by John Champion
 
+<details>
+  <summary>Screenshots</summary>
+
+  ![](images/axiscross.png)
+
+  ![](images/basetic.png)
+
+  ![](images/dualy.png)
+
+  ![](images/filledcurve.png)
+
+  ![](images/gradientbyz.png)
+
+  ![](images/linestack.png)
+
+  ![](images/linewithband.png)
+
+  ![](images/multi_y.png)
+
+  ![](images/smoothchart.png)
+
+  ![](images/stepchart.png)
+
+</details>
+
 forked from https://sourceforge.net/projects/zedgraph/
 
 ZedGraph is a class library, user control, and web control for
