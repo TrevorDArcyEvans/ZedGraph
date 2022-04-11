@@ -46,5 +46,5 @@ ZedGraph is available via NuGet:
 * ~~port to .NET Core 6~~
 * ~~sign assemblies~~
 * ~~company+author+copyright credits~~
-* xml docs
+* ~~xml docs~~
 
