@@ -7,6 +7,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyDescription("ZedGraph Library")]
+[assembly: AssemblyCompany("John Champion, et al.")]
+[assembly: AssemblyCopyright("Copyright © 2003-2018 John Champion")]
+
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
